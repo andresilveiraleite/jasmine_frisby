@@ -1,0 +1,15 @@
+{
+  "name": "rest_test",
+  "author": "André Leite",
+  "main": "meu_projeto_de_teste.spec.js",
+  "version": "0.0.1",
+  "dependencies": {
+    "frisby": "latest",
+    "jasmine-node": "latest"
+  },
+  "devDependencies": {
+    "frisby": "^0.8.5",
+    "grunt": "^1.0.1",
+    "grunt-jasmine-node": "^0.3.1"
+  }
+}
